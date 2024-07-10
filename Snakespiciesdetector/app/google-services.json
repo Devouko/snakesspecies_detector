@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342160166253",
+    "project_id": "snake-detector-fde22",
+    "storage_bucket": "snake-detector-fde22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342160166253:android:3131a4db766f41b2de1e64",
+        "android_client_info": {
+          "package_name": "com.example.snakespiciesdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342160166253-q3lbdt6i7defbqfq9hq3q1guqin0gbjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4e0x5ViB3nIBSHzpZBqSK0UZ51IvvouE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342160166253-q3lbdt6i7defbqfq9hq3q1guqin0gbjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
